@@ -1,0 +1,22 @@
+{
+  "name": "playwright_jaro2024",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tredgate/playwright_jaro2024.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tredgate/playwright_jaro2024/issues"
+  },
+  "homepage": "https://github.com/tredgate/playwright_jaro2024#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.43.1",
+    "@types/node": "^20.12.7"
+  }
+}
