@@ -1,6 +1,6 @@
 import test from "@playwright/test";
 
-test("Vyplnění webtrain formuláře", async ({ page }) => {
+test("Vyplnění webtrain formuláře @githubactions", async ({ page }) => {
   await page.goto("https://tredgate.com/webtrain/registration.html ");
   await page.locator("#name").fill("Petr");
   await page.locator("#email").fill("test@example.net");
